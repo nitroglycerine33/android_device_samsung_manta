@@ -1,0 +1,7 @@
+#
+# system.prop for manta
+#
+
+# temp fix for dalvik-cache
+dalvik.vm.dexopt-data-only=1
+
